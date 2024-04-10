@@ -2,7 +2,7 @@ const EidGallery = () => {
   return (
     <div>
       <section className="py-6 dark:bg-gray-100 dark:text-gray-900">
-      <h1 className="text-4xl font-bold ">ঈদ গ্যালারী </h1>
+      <h1 className="text-4xl font-bold pl-12">ঈদ গ্যালারী </h1>
         <div className="container grid grid-cols-2 gap-4 p-4 mx-auto md:grid-cols-4">
           <img
             src="https://i.ibb.co/KXy4zrf/eid-mubarak-banner-with-greeting.jpg"
