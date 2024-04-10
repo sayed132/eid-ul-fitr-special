@@ -17,7 +17,7 @@ const EidLaw = () => {
       }}
     >
       <div className="flex justify-center hero-overlay bg-opacity-50 rounded-md">
-        <div className=" max-w-[550px] rounded-lg py-20 space-y-6 cursor-pointer">
+        <div className=" max-w-[550px] rounded-lg py-20 space-y-6 lg:px-0 px-4 cursor-pointer">
           <h1 className="text-3xl font-semibold text-white">বিশ্বব্যাপী ঈদ উদযাপনের বিভিন্ন রীতি</h1>
           <p className="text-white leading-relaxed text-lg font-medium">
             ঈদ মানেই আনন্দ, ঈদ বলতেই চোখের সামনে ভেসে আসে আনন্দময় একটা দিনের

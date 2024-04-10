@@ -66,26 +66,7 @@ const EidHistory = () => {
 
           <h3 className="pt-2 text-3xl font-bold">{`উপসংহার:`}</h3>
           <p className="py-6">{`ঈদুল ফিতর ইসলাম ধর্মের একটি গুরুত্বপূর্ণ ধর্মীয় উৎসব যা আনন্দ, ধর্মীয়তা, এবং সামাজিক মেলবন্ধনের এক অপূর্ব মিশ্রণ। ঈদের এই মহান আনন্দে সকলের অংশগ্রহণই ঈদের প্রকৃত তাৎপর্য বহন করে।`}</p>
-          <button className="bg-sky-600 rounded-md mt-10 text-white font-bold text-lg overflow-hidden group">
-              <span className="inline-block bg-sky-400 px-[10px] py-4 after:content-['ঈদ'] after:absolute after:inset-0 relative after:flex after:justify-center after:items-center after:-translate-y-full group-hover:translate-y-full duration-500 after:bg-sky-900">
-                ঈদ
-              </span>
-              <span className="inline-block bg-sky-500 px-[10px] py-4 after:content-['সালামি'] after:bg-sky-800 after:absolute after:inset-0 relative after:flex after:justify-center after:items-center after:translate-y-full group-hover:-translate-y-full duration-500 ">
-                সালামি
-              </span>
-              <span className="inline-block bg-sky-600 px-[10px] py-4 after:content-['দিতে'] after:absolute after:inset-0 relative after:flex after:justify-center after:items-center after:-translate-y-full group-hover:translate-y-full duration-500 after:bg-sky-700">
-                না
-              </span>
-              <span className="inline-block bg-sky-700 px-[10px] py-4 after:content-['বাটনে'] after:bg-sky-600 after:absolute after:inset-0 relative after:flex after:justify-center after:items-center after:translate-y-full group-hover:-translate-y-full duration-500">
-                দিলে
-              </span>
-              <span className="inline-block bg-sky-800 px-[10px] py-4 after:content-['ক্লিক'] after:absolute after:inset-0 relative after:flex after:justify-center after:items-center after:-translate-y-full group-hover:translate-y-full duration-500 after:bg-sky-500">
-                ভুতে
-              </span>
-              <span className="inline-block bg-sky-900 px-[10px] py-4 after:content-['করো'] after:absolute after:inset-0 relative after:flex after:justify-center after:items-center after:-translate-y-full group-hover:translate-y-full duration-500 after:bg-sky-400">
-                ধরবে
-              </span>
-            </button>
+          
         </div>
       </div>
     </div>
